@@ -1,0 +1,17 @@
+.square{
+    width: 100px;
+    height: 100px;
+    background-color: beige;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 60px;
+    border:1px solid rgb(8, 17, 48);
+
+}
+.square--winning{
+    background-color:crimson;
+}
+.square--current{
+    background-color: #12c2bc;
+}
